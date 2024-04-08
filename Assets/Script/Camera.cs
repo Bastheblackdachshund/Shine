@@ -5,7 +5,6 @@ using UnityEngine;
 public class Camera : MonoBehaviour
 {
     public GameObject FrontC;
-    public GameObject WheelC;
     public GameObject TopC;
     public GameObject MapC;
     public GameObject MidRC;
@@ -20,41 +19,40 @@ public class Camera : MonoBehaviour
         {
             cam++;
         }
+        if (Input.GetKeyDown("down"))
+        {
+            cam--;
+        }
         if (cam == 1)
         {
-            MapC.SetActive(true);
+            FrontC.SetActive(true);
             BackC.SetActive(false);
         }
         if (cam == 2)
         {
-            MapC.SetActive(false);
+            FrontC.SetActive(false);
             TopC.SetActive(true);
         }
         if (cam == 3)
         {
             TopC.SetActive(false);
-            WheelC.SetActive(true);
+            MapC.SetActive(true);
         }
         if (cam == 4)
         {
-            WheelC.SetActive(false);
-            FrontC.SetActive(true);
-        }
-        if (cam == 5)
-        {
-            FrontC.SetActive(false);
+            MapC.SetActive(false);
             MidRC.SetActive(true);
         }
-        if (cam == 6)
+        if (cam == 5)
         {
             MidRC.SetActive(false);
             MidLC.SetActive(true);
         }
-        if (cam == 7)
+        if (cam == 6)
         {
             MidLC.SetActive(false);
             BackC.SetActive(true);
         }
-        if (cam >= 8) { cam = 1; }
+        if (cam >= 7) { cam = 1; }
     }
 }
