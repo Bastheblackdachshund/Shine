@@ -51,4 +51,12 @@ hierdoor is het project erg veel kleiner dan ik van te voren had gehoopt
 
 Eindwerk
 
-er staat op mijn github een link om de game te downloaden in de ReadMe "uitleg" kun je stap bij stap vinden hoe (momenteel staat dit er nog niet ik voeg het toe als de game af* is)
+Dit zijn fotos van verschillende cameras
+
+![image](https://github.com/Bastheblackdachshund/Shine/assets/144002097/62093aed-aedd-42f9-af51-1e48105c7af1)
+
+![image](https://github.com/Bastheblackdachshund/Shine/assets/144002097/926cd8a6-8c5f-47b2-9eda-855fec73a1d8)
+
+![image](https://github.com/Bastheblackdachshund/Shine/assets/144002097/051d4f53-afb9-4535-a790-882df68cf983)
+
+![image](https://github.com/Bastheblackdachshund/Shine/assets/144002097/9ae04f62-2ffe-4cdd-96a5-672339719c37)
