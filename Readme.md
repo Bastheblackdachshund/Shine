@@ -23,6 +23,14 @@ ik begon met de splines uitproberen en dat lukte redelijk tot ik aankwam bij het
 
 ![image](https://github.com/Bastheblackdachshund/Shine/assets/144002097/5f9c3110-8c46-4c1b-809b-2a5c4eb14821)
 
+![image](https://github.com/Bastheblackdachshund/Shine/assets/144002097/6909e919-1731-430a-a226-b6d36e85498d)
+
+![image](https://github.com/Bastheblackdachshund/Shine/assets/144002097/d3a33ae0-61f1-4801-a325-d6ee4c5d3a7c)
+
+![image](https://github.com/Bastheblackdachshund/Shine/assets/144002097/18ce7084-4a54-4df9-a394-fbe347efb630)
+
+
+
 
 
 
