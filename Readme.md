@@ -7,7 +7,7 @@ ik vond het ambitie project zelf wel goed gaan omdat het als eindproduct er uit 
  
 Process
 
-ik begon met de splines uitproberen en dat lukte redelijk tot ik aankwam bij het snelheid aanpassen want er was altijd een probleem mee, of dat de trein niet draaide naar de locatie of dat het veranderden van locatie als je de snelheid aanpasten tijdens dat hij reed, hierdoor heb ik gekozen om snelheid het zelfde te laten waardoor het interactieve gedeelte van het spel grootendeels wegging. hierna ben ik begonnen met een map maken mijn eerste map was erg groot daarna heb ik een kleinere map gemaakt. hierna ben ik gaa werken aan het spoor gedeeltelijk neerleggen en de game testen, als volg heb ik de map een beetje gecoreerd een lag machine gemaakt de lag machine weggehaald en heb een nieuwe spline gelegd om de game te testen en dat is tot nu ik ga hierna verder wekren aan de map afmaken zodat ik tenminste een soortvan een speelber spel heb.
+ik begon met de splines uitproberen en dat lukte redelijk tot ik aankwam bij het snelheid aanpassen want er was altijd een probleem mee, of dat de trein niet draaide naar de locatie of dat het veranderden van locatie als je de snelheid aanpasten tijdens dat hij reed, hierdoor heb ik gekozen om snelheid het zelfde te laten waardoor het interactieve gedeelte van het spel grootendeels wegging. hierna ben ik begonnen met een map maken mijn eerste map was erg groot daarna heb ik een kleinere map gemaakt. hierna ben ik gaa werken aan het spoor gedeeltelijk neerleggen en de game testen, als volg heb ik de map een beetje gecoreerd een lag machine gemaakt de lag machine weggehaald en heb een nieuwe spline gelegd om de game te testen, daarna heb ik de spline verwijderd om het spoor volledig af te maken ik ben hierna ook de berger gemaakt dat ze meer op bergen lijken en geluid toegevoegd, ik heb het stadje neergezet en de tunnels aa het eind van het spoor, en heb de wolken gemaakt en laaten bewegen.
 
 
 
@@ -29,7 +29,7 @@ ik begon met de splines uitproberen en dat lukte redelijk tot ik aankwam bij het
 
 Keuzes
 
-ik heb de keuzen gemaakt om geen veranderende snelhied tijdens de game niet erin te doen, hierna heb ik vooral gefocused op de game mooier maken om het nog iets een soort van leuks te maken ik begon met een spoor maken, ik heb gekozen voor een heuvel landshcap omdat ik het mooi vind en niet heel erg moeilijk om met trein te maken, nieuwe map omdat de oude map veel te groot was, 
+ik heb de keuzen gemaakt om geen veranderende snelhied tijdens de game niet erin te doen, hierna heb ik vooral gefocused op de game mooier maken om het nog iets een soort van leuks te maken ik begon met een spoor maken, ik heb gekozen voor een heuvel landshcap omdat ik het mooi vind en niet heel erg moeilijk om met trein te maken, nieuwe map omdat de oude map veel te groot was, ik heb de wolken platte fotos gemaakt zodat ze minder resource intesive zijn. de bergen hebben sneeuw boven het nivue van de wolken, de tunnels zijn er zodat het spoor niet zomaar stopt.
 
 
 Feedback
